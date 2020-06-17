@@ -1,1 +1,1 @@
-alert("Welcome to a new journesy and my new site");
+alert("Welcome to a New Journey and My New Site");
